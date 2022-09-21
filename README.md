@@ -10,8 +10,7 @@ In the project directory, you can run
 ![Scatter Plot](https://user-images.githubusercontent.com/65644703/191599175-aba5725e-6334-4ed2-9ebe-7fcebc67dccc.png)
 
 
-### `npm start`
-
+### `yarn start`
 Runs the app in the development mode.\
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
