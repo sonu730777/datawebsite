@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-To Run the Project Use yarn start.
+To Run the Project Use `yarn start`
 
 ## Available Scripts
 
