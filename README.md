@@ -4,7 +4,9 @@ To Run the Project Use `yarn start`
 
 ## Available Scripts
 
-In the project directory, you can run
+In the project directory, you can see the screenshorts of the Charts made using echarts.
+
+
 ![BarChart](https://user-images.githubusercontent.com/65644703/191599280-fd47e988-3843-4c80-82bf-c892768c2099.png)
 
 ![Scatter Plot](https://user-images.githubusercontent.com/65644703/191599175-aba5725e-6334-4ed2-9ebe-7fcebc67dccc.png)
